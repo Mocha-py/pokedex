@@ -32,7 +32,7 @@ Documentation can be found in the code, and also [here](https://mocha-existz.neo
 
 ## Installation
 
-Either install from the releases section, or download the code and ensure you have the appropriate libraries installed.
+Download the code and ensure you have the appropriate libraries installed.
     
 ## Feedback
 
